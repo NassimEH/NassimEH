@@ -17,7 +17,6 @@ Je suis **Nassim EL HADDAD**, apprenti ingénieur à **Télécom SudParis** (Ins
 - le **design**
 - la **création de jeux**
 - la **musique**
-- et bien sûr, la **musculation** 💪🏻
 
 ---
 
