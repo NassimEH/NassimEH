@@ -1,7 +1,7 @@
-<h1 align="center">Salut, moi c'est Nassim 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1AB3C2&center=true&vCenter=true&width=435&lines=Apprenti+Ing%C3%A9nieur+%C3%A0+T%C3%A9l%C3%A9com+SudParis;Passionn%C3%A9+de+cybers%C3%A9curit%C3%A9%2C+IA%2C+et+dev+web;Cr%C3%A9atif+%F0%9F%8E%A8%2C+tech+%F0%9F%A7%AA%2C+muscu+%F0%9F%92%AA" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1AB3C2&center=true&vCenter=true&width=435&lines=Ing%C3%A9nieur+informatique;Passionn%C3%A9+de+cybers%C3%A9curit%C3%A9%2C+IA%2C+et+dev+web;Cr%C3%A9atif+%F0%9F%8E%A8%2C+tech+%F0%9F%A7%AA%2C+muscu+%F0%9F%92%AA" />
 </p>
+
 
 ---
 
