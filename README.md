@@ -11,9 +11,55 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=nassimeh&color=1AB3C2&style=for-the-badge&label=PROFILE+VIEWS)
   
+  <a href="https://www.linkedin.com/in/nassim-elhaddad/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-1AB3C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:elhaddad.nassimpro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-1AB3C2?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://nassimeh.github.io/portfolio-nassim-elhaddad">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-1AB3C2?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  
+</div>
+
+## 🎯 Objectifs 2025
+
+<div align="center">
+
+| Domaine | Objectif | Statut |
+|---------|----------|--------|
+| 🔐 **Cybersécurité** | Certifications CISSP/CEH | 🔄 En cours |
+| 🤖 **IA/ML** | Projets NLP & Computer Vision | 📋 Planifié |
+| 🌐 **DevOps** | Maîtrise Kubernetes & CI/CD | 🔄 En cours |
+| 🎮 **Game Dev** | Jeu complet avec Unity/Unreal | 📋 Planifié |
+| 🎵 **Musique** | Album complet (10 tracks) | 🔄 En cours |
+
 </div>
 
 ---
+
+## 🔥 Mes repos les plus populaires
+
+<div align="center">
+  
+  <a href="https://github.com/nassimeh/portfolio-nassim-elhaddad">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nassimeh&repo=portfolio-nassim-elhaddad&theme=tokyonight&border_color=1AB3C2&bg_color=0d1117&title_color=1AB3C2&icon_color=1AB3C2" />
+  </a>
+  
+  <!-- Ajoutez vos autres repos importants ici -->
+  
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/nassimeh/nassimeh/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 ## 👤 À propos de moi
 
@@ -41,22 +87,42 @@ En dehors de mes études, je suis passionné par :
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nassimeh&theme=tokyonight&border=1AB3C2&background=0d1117&stroke=1AB3C2&ring=1AB3C2&fire=1AB3C2&currStreakLabel=1AB3C2" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=nassimeh&theme=tokyonight&border=1AB3C2&background=0d1117&stroke=1AB3C2&ring=1AB3C2&fire=1AB3C2&currStreakLabel=1AB3C2" alt="GitHub Streak"/>
   
   <br/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nassimeh&theme=tokyo-night&hide_border=true&color=1AB3C2&line=1AB3C2&point=1AB3C2" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nassimeh&custom_title=Activité%20des%2012%20derniers%20mois&bg_color=0d1117&color=1AB3C2&line=1AB3C2&point=1AB3C2&area=true&hide_border=true" width="100%"/>
   
 </div>
 
 ---
 
+## 💼 Expérience professionnelle
+
+<div align="center">
+
+```text
+🏢 Siemens Digital Industries Software
+   └── 🤖 Stage - Tests & évaluation LLM
+   └── 📊 Développement dashboard Power BI
+   └── 🔧 Automatisation & scripting Python
+
+🎓 Télécom SudParis (Institut Polytechnique de Paris)  
+   └── 🔐 Spécialisation Cybersécurité
+   └── 🌐 Informatique et Réseaux
+   
+🎮 Projets personnels
+   └── 💻 Développement web freelance
+   └── 🎧 Composition musicale
+   └── 🎨 Modélisation 3D (Blender)
+```
+
+</div>
+
 ## 🚀 Projets techniques
 
 ### 🐍 Python
-
 - 🐍 Jeux codés from scratch : `Snake`, `TicTacToe`
-- ⚙️ Serveur DHCP & interface web ZTP avec `Scapy`, `Docker`, `Flask`, `Asyncio`
 - 📊 Scripts d'automatisation, parsing de logs & indicateurs
 - 🤖 Tests & évaluation de modèles LLM internes Siemens
 
@@ -117,7 +183,7 @@ En dehors de mes études, je suis passionné par :
 
 <div align="center">
   
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nassimeh&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=4&title=Stars,Followers,Commits,Repositories&theme=nord&column=4)
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nassimeh&theme=onedark&no-frame=false&no-bg=true&margin-w=4&column=3&title=Stars,Commits,Repositories,PullRequest,Issues,Followers)
   
 </div>
 
