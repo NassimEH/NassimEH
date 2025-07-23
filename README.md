@@ -92,23 +92,24 @@ En dehors de mes études, je suis passionné par :
 
 ## 🧠 Compétences
 
-### 🔤 Langages
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Frontend & Design
+<img src="https://skillicons.dev/icons?i=react,vue,js,html,css,figma,blender" />
 
-### 🛠️ Outils & Techs
+### Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=python,java,c,flask,django,nodejs" />
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### Databases
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
+
+### DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,kubernetes,git,github" />
+
+### Tools & Software
+<img src="https://skillicons.dev/icons?i=vscode,linux,powershell,arduino" />
+
+</div>
 
 ---
 
