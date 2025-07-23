@@ -7,6 +7,12 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="code gif">
 </p>
 
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=nassimeh&color=1AB3C2&style=for-the-badge&label=PROFILE+VIEWS)
+  
+</div>
+
 ---
 
 ## 👤 À propos de moi
@@ -14,7 +20,7 @@
 Bienvenue sur mon profil GitHub !  
 Je suis **Nassim EL HADDAD**, **ingénieur informatique** à **Télécom SudParis** (Institut Polytechnique de Paris), spécialisation **Informatique et Réseaux**.
 
-🎓 Ancien étudiant du **BUT Informatique** de l’Université Paris-Est Créteil  
+🎓 Ancien étudiant du **BUT Informatique** de l'Université Paris-Est Créteil  
 🔐 En route vers une **spécialisation en cybersécurité**
 
 En dehors de mes études, je suis passionné par :
@@ -23,6 +29,25 @@ En dehors de mes études, je suis passionné par :
 - 🧠 **le design et les expériences utilisateur**
 - 🎧 **la composition musicale**
 - 🏋️ **la musculation et la discipline sportive**
+
+---
+
+## 📊 Mes statistiques GitHub
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nassimeh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=1AB3C2&bg_color=0d1117&title_color=1AB3C2&icon_color=1AB3C2"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nassimeh&layout=compact&langs_count=8&theme=tokyonight&border_color=1AB3C2&bg_color=0d1117&title_color=1AB3C2"/>
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nassimeh&theme=tokyonight&border=1AB3C2&background=0d1117&stroke=1AB3C2&ring=1AB3C2&fire=1AB3C2&currStreakLabel=1AB3C2" alt="GitHub Streak"/>
+  
+  <br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nassimeh&theme=tokyo-night&hide_border=true&color=1AB3C2&line=1AB3C2&point=1AB3C2" width="100%"/>
+  
+</div>
 
 ---
 
@@ -84,6 +109,16 @@ En dehors de mes études, je suis passionné par :
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🏆 Réalisations GitHub
+
+<div align="center">
+  
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nassimeh&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=4&title=Stars,Followers,Commits,Repositories&theme=nord&column=4)
+  
+</div>
 
 ---
 
