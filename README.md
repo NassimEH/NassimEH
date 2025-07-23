@@ -23,43 +23,7 @@
   
 </div>
 
-## 🎯 Objectifs 2025
-
-<div align="center">
-
-| Domaine | Objectif | Statut |
-|---------|----------|--------|
-| 🔐 **Cybersécurité** | Certifications CISSP/CEH | 🔄 En cours |
-| 🤖 **IA/ML** | Projets NLP & Computer Vision | 📋 Planifié |
-| 🌐 **DevOps** | Maîtrise Kubernetes & CI/CD | 🔄 En cours |
-| 🎮 **Game Dev** | Jeu complet avec Unity/Unreal | 📋 Planifié |
-| 🎵 **Musique** | Album complet (10 tracks) | 🔄 En cours |
-
-</div>
-
 ---
-
-## 🔥 Mes repos les plus populaires
-
-<div align="center">
-  
-  <a href="https://github.com/nassimeh/portfolio-nassim-elhaddad">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nassimeh&repo=portfolio-nassim-elhaddad&theme=tokyonight&border_color=1AB3C2&bg_color=0d1117&title_color=1AB3C2&icon_color=1AB3C2" />
-  </a>
-  
-  <!-- Ajoutez vos autres repos importants ici -->
-  
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/nassimeh/nassimeh/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
 
 ## 👤 À propos de moi
 
@@ -97,7 +61,7 @@ En dehors de mes études, je suis passionné par :
 
 ---
 
-## 💼 Expérience professionnelle
+## 💼 Expérience 
 
 <div align="center">
 
