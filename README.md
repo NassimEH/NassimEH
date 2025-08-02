@@ -28,17 +28,17 @@
 ## 👤 À propos de moi
 
 Bienvenue sur mon profil GitHub !  
-Je suis **Nassim EL HADDAD**, **ingénieur informatique** à **Télécom SudParis** (Institut Polytechnique de Paris), spécialisation **Informatique et Réseaux**.
+Je suis **Nassim EL HADDAD**, **ingénieur informatique** à **Télécom SudParis** (Institut Polytechnique de Paris), spécialisation **Informatique et Réseaux** et actuellement alternant chez Siemens France.
 
 🎓 Ancien étudiant du **BUT Informatique** de l'Université Paris-Est Créteil  
-🔐 En route vers une **spécialisation en cybersécurité**
 
-En dehors de mes études, je suis passionné par :
-- 🎮 **le développement de jeux**
-- 🌐 **la création de sites web**
-- 🧠 **le design et les expériences utilisateur**
-- 🎧 **la composition musicale**
-- 🏋️ **la musculation et la discipline sportive**
+Je suis passionné par :
+- La programmation et l'informatique
+- Les jeux vidéos
+- La création de sites web
+- Le design et les expériences utilisateur
+- La composition musicale et la musique de manière générale
+- La musculation et la discipline sportive
 
 ---
 
@@ -61,62 +61,60 @@ En dehors de mes études, je suis passionné par :
 
 ---
 
-## 💼 Expérience 
+## 💼 Expérience professionnelle 
 
 <div align="center">
 
 ```text
-🏢 Siemens Digital Industries Software
-   └── 🤖 Stage - Tests & évaluation LLM
-   └── 📊 Développement dashboard Power BI
-   └── 🔧 Automatisation & scripting Python
+🏢 Siemens France - Alternance
+   └── Tests et audits cybersécurité
+   └── Développement dashboard Power BI
+   └── Programmation
 
-🎓 Télécom SudParis (Institut Polytechnique de Paris)  
-   └── 🔐 Spécialisation Cybersécurité
-   └── 🌐 Informatique et Réseaux
-   
-🎮 Projets personnels
-   └── 💻 Développement web freelance
-   └── 🎧 Composition musicale
-   └── 🎨 Modélisation 3D (Blender)
+🏢 Netopsia - Stage
+   └── Tests et audits cybersécurité
+   └── Refonte du site web de l'entreprise
+   └── Programmation
+
+```
+## 💼 Parcours scolaire
+
+```text
+🎓 Télécom SudParis (Institut Polytechnique de Paris) - Diplôme d'ingénieur
+   └── Projets scolaire
+   └── Informatique et Réseaux
+
+🎓 Université Paris-Est Créteil - BUT Informatique
+   └── Projets scolaire
+   └── Informatique et Réseaux
 ```
 
 </div>
 
-## 🚀 Projets techniques
+## 🖥️ Projets techniques
 
-### 🐍 Python
-- 🐍 Jeux codés from scratch : `Snake`, `TicTacToe`
-- 📊 Scripts d'automatisation, parsing de logs & indicateurs
-- 🤖 Tests & évaluation de modèles LLM internes Siemens
+### Programmation
 
-### 🌐 Développement Web
+- Scripts cybersécurité : générateur de mot de passe sécurisé, vérificateur de robustesse
+- Tests et audits de sécurité chez Siemens
+- Automatisation de tâches via Python et PowerShell
 
-- 🧭 App web de roadmap interne Siemens
-- 💼 Sites vitrines freelance (SEO, responsive, JS)
-- 🧪 Outils de test pour campagne cyber (SIESTA)
-- 🖥️ Mon portfolio : [nassimeh.github.io/portfolio-nassim-elhaddad](https://nassimeh.github.io/portfolio-nassim-elhaddad)
+### Développement Web
 
-### 📊 Data / BI
+- App web de roadmap interne Siemens
+- Sites vitrines freelance 
+- Mon portfolio : [nassimeh.github.io/portfolio-nassim-elhaddad](https://nassimeh.github.io/portfolio-nassim-elhaddad)
 
-- 📈 Dashboard Power BI pour pilotage du programme TRACY
-- 🔍 Automatisation de rapports & extraction de KPI
-- 🔐 Intégration de reporting sécurité
+### Data / BI
+
+- Dashboard Power BI pour pilotage du programme TRACY
+- Automatisation de rapports & extraction de KPI
+- Intégration de reporting sécurité
 
 ### 🧱 3D (Blender)
 
-- 🎮 GameBoy 3D stylisé
-- ☕ Mug modélisé
-- 🪑 Deux chaises (bleue & noire)
-- 🤖 Projet cyborg collaboratif (corps modulaire en équipe)
-
----
-
-## 🎨 Projets créatifs
-
-- 🎧 Beatmaking (trap, lo-fi, expérimental)
-- 💪 Suivi et passion pour la musculation
-- 🎮 Création de gameplay et level design
+- Certifications en IA (modèles, prompts, éthique)
+- Création de CVision, un outil d’évaluation de CV basé sur l’IA
 
 ---
 
@@ -163,10 +161,10 @@ En dehors de mes études, je suis passionné par :
 
 ## 🧭 Ce que j'apporte
 
-- 🔍 Curiosité technique et force de proposition
-- 🔐 Culture cybersécurité et organisation agile
-- 🧠 Créativité au service de la technique
-- 🤝 Travail d'équipe, rigueur et motivation
+- Curiosité technique et force de proposition
+- Culture cybersécurité et organisation agile
+- Créativité au service de la technique
+- Travail d'équipe, rigueur et motivation
 
 ---
 
