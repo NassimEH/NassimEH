@@ -111,7 +111,7 @@ Je suis passionné par :
 - Automatisation de rapports & extraction de KPI
 - Intégration de reporting sécurité
 
-### 🧱 3D (Blender)
+### IA
 
 - Certifications en IA (modèles, prompts, éthique)
 - Création de CVision, un outil d’évaluation de CV basé sur l’IA
